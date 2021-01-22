@@ -17,3 +17,7 @@
 将爬取结果txt文件放到release中
 
 整理于2021.1.21
+
+Python版本升至3.9，更新requirements.txt
+
+测试于2021.1.22，看起来没问题
