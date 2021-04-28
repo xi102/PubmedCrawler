@@ -8,4 +8,4 @@ pip-review==1.1.0
 pyparsing==2.4.7
 requests==2.25.1
 soupsieve==2.1
-urllib3==1.26.2
+urllib3==1.26.3
